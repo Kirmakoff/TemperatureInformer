@@ -1,0 +1,17 @@
+c:\users\samsung\documents\visual studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\TemperatureInformer.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\TemperatureInformer\TemperatureInformer\obj\Debug\TemperatureInformer.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\TemperatureInformer\TemperatureInformer\obj\Debug\TemperatureInformer.Form1.resources
+c:\users\samsung\documents\visual studio 2015\Projects\TemperatureInformer\TemperatureInformer\obj\Debug\TemperatureInformer.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\TemperatureInformer\TemperatureInformer\obj\Debug\TemperatureInformer.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\TemperatureInformer.exe
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\TemperatureInformer.pdb
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\EntityFramework.dll
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\EntityFramework.xml
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\obj\Debug\TemperatureInformer.exe
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\TemperatureInformer\TemperatureInformer\obj\Debug\TemperatureInformer.pdb
